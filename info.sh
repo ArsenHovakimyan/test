@@ -3,3 +3,4 @@
 top
 df -h
 ifconfig
+whoami
