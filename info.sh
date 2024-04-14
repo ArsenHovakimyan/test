@@ -2,3 +2,4 @@
 
 top
 df -h
+ifconfig
